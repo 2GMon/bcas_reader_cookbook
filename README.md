@@ -24,6 +24,13 @@ Just include `bcas_reader` in your node's `run_list`:
 }
 ```
 
+#### run test
+
+```bash
+bundle install
+bundle exec kitchen test
+```
+
 Contributing
 ------------
 1. Fork the repository on Github
