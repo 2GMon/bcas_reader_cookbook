@@ -5,7 +5,7 @@ This file is used to list changes made in each version of the bcas_reader cookbo
 
 0.1.0
 -----
-- [your_name] - Initial release of bcas_reader
+- Takaaki TSUJIMOTO - Initial release of bcas_reader
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
