@@ -1,0 +1,9 @@
+DEPENDENCIES
+  apt
+  bcas_reader
+    path: .
+    metadata: true
+
+GRAPH
+  apt (2.6.1)
+  bcas_reader (0.1.0)
