@@ -6,7 +6,7 @@ Requirements
 ------------
 
 #### platforms
-- `Debian` - This cookbook is tested with only debian-7.6.
+- `Debian` - This cookbook is tested with only debian-7.8 and debian-8.1.
 
 #### packages
 
